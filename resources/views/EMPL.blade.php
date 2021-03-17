@@ -15,6 +15,9 @@
   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="/search">SEARCH</a>
   </li>
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="/about">About</a>
+  </li>
   
 
 </ul>
@@ -69,6 +72,7 @@
  </table>
  </div>
  <div class="<div col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
  </div>
  </div>   
